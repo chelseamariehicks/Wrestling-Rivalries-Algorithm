@@ -1,0 +1,2 @@
+# Wrestling-Rivalries-Algorithm
+Program reads a text file from the command line that contains  a number of wrestlers (n), a list of the wrestler names, the number of rivalries (r), and a list of the rivalries by their names in pairs. The program outputs to the terminal Yes if it is possible to designate wrestlers as Babyfaces and Heels such that each rivalry is between a Babyface and a Heel, and a list of the Babyface wrestlers and a list of the Heels otherwise, if it is not possible, the output is No.
